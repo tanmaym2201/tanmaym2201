@@ -38,11 +38,5 @@ An AI-oriented platform designed to streamline employee transitions, knowledge t
 - Exploring AI integration and intelligent automation
 - Developing innovative projects for industry and hackathons
 
-### 📫 Connect With Me
-
-- 💼 LinkedIn: [Connect with me](YOUR-LINKEDIN-URL)
-- 🐙 GitHub: [Explore my repositories](https://github.com/YOUR-GITHUB-USERNAME)
-
----
 
 ⭐ *Learn • Build • Innovate • Repeat*
