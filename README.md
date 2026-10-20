@@ -2,14 +2,13 @@
 
 ### 💻 Full Stack Developer | Java Developer | MERN Stack Enthusiast
 
-I'm passionate about building innovative, practical, and scalable software solutions. I enjoy exploring new technologies, solving real-world problems, and turning ideas into working applications.
+I'm passionate about building innovative, practical, and scalable software solutions. I enjoy solving real-world problems and turning ideas into working applications.
 
-- 🔭 Currently working on full-stack development projects
-- 🌱 Learning Java, Data Structures & Algorithms, and advanced web technologies
-- ⚙️ Interested in AI-powered applications and intelligent automation
-- 💡 Focused on building projects that solve real-world problems
-- 🤝 Open to collaboration, internships, and exciting development opportunities
-- 📫 Connect with me on LinkedIn
+- 🔭 Building full-stack web applications
+- 🌱 Learning Java, Data Structures & Algorithms, and modern web technologies
+- 🤖 Exploring AI-powered applications and automation
+- 💡 Passionate about problem-solving and software development
+- 🤝 Open to collaboration, internships, and exciting opportunities
 
 ### 🛠️ Tech Stack
 
@@ -21,13 +20,29 @@ I'm passionate about building innovative, practical, and scalable software solut
 
 ### 🚀 Featured Projects
 
-- **Employee Handover Intelligence (EHI)** — An AI-oriented platform designed to improve employee transitions, knowledge transfer, and task handovers.
-- **Full Stack Web Applications** — Developing practical applications using modern frontend, backend, and database technologies.
+#### 🌐 SkyLinks — MERN Stack Portfolio Generator
+A full-stack web application built using MongoDB, Express.js, React.js, and Node.js that helps users generate personalized portfolios to showcase their skills, projects, and professional experience.
 
-### 📊 Developer Mindset
+**Tech Stack:** MongoDB | Express.js | React.js | Node.js
 
-Learn • Build • Solve • Improve
+#### 🐾 Petzy
+A pet-focused project designed to provide a technology-driven experience for pet owners and pet-related services.
+
+#### 🧠 Employee Handover Intelligence (EHI)
+An AI-oriented platform designed to streamline employee transitions, knowledge transfer, task management, and handover documentation.
+
+### 🎯 Current Goals
+
+- Strengthening Java and DSA skills
+- Building real-world applications with the MERN stack
+- Exploring AI integration and intelligent automation
+- Developing innovative projects for industry and hackathons
+
+### 📫 Connect With Me
+
+- 💼 LinkedIn: [Connect with me](YOUR-LINKEDIN-URL)
+- 🐙 GitHub: [Explore my repositories](https://github.com/YOUR-GITHUB-USERNAME)
 
 ---
 
-⭐ *Always curious, continuously learning, and building something better every day.*
+⭐ *Learn • Build • Innovate • Repeat*
